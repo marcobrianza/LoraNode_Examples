@@ -1,6 +1,6 @@
 
 /*
-  The example  sends every 60 seconds a temperature value on ttn with LoraNode 1.3
+  The example sends every 60 seconds a temperature value on ttn with LoraNode 1.3
 
   A one Wire DS18B20 temperature sensor is required.
   Pinout looking at the component face is: GND - DATA - VDD
@@ -10,7 +10,7 @@
   DATA to D1
   VDD to 3.3V
 
-to decoda data in the ttn backend use this payload function in "payload formats"
+to decoda data in the ttn backend use this payload function in "payload formats" of the ttn console
 https://github.com/marcobrianza/_ttn-functions/blob/master/ttn_float_decoder.js
 
 
