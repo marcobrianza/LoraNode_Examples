@@ -4,7 +4,7 @@ Example code to map ttn coverage https://ttnmapper.org/
 
 an app running on a mobile phone is need to log message position
 https://play.google.com/store/apps/details?id=com.jpmeijers.ttnmapper
-https://itunes.apple.com/us/app/ttn-mapper/id1128809850?mt=8 (not working for me at his time)
+https://itunes.apple.com/us/app/ttn-mapper/id1128809850?mt=8 (not working for me at this time)
 
 For complete functionality the WeMos OLED display is required
 set the parameters by the ui (the standard ones should be ok)
