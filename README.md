@@ -27,7 +27,7 @@ Select "->" and press the Red button to send the message.
 ## ttn-abp-LoraNode-temperature
 This example sends every 60 seconds a temperature value on ttn  
 A one Wire DS18B20 temperature sensor is required.  
-To temperature decoda data in the ttn backend use this [payload function](https://github.com/marcobrianza/_ttn-functions/blob/master/ttn_float_decoder.js) in the "payload formats" of the [ttn console](https://console.thethingsnetwork.org/). The output json with add the field with the temperature value.
+To temperature decode data in the ttn backend use this [payload function](https://github.com/marcobrianza/_ttn-functions/blob/master/ttn_float_decoder.js) in the "payload formats" of the [ttn console](https://console.thethingsnetwork.org/). The output json with add the field with the temperature value.
 
 
 ## ttn-abp-LoraNode-mapper

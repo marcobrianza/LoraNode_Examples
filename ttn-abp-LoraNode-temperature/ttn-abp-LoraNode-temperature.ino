@@ -10,7 +10,7 @@
   DATA to D1
   VDD to 3.3V
 
-to decoda data in the ttn backend use this payload function in "payload formats" of the ttn console
+to decode data in the ttn backend use this payload function in "payload formats" of the ttn console
 https://github.com/marcobrianza/_ttn-functions/blob/master/ttn_float_decoder.js
 
 
@@ -205,7 +205,3 @@ void setupSensor() {
   } while (result == false);
 
 }
-
-
-
-
